@@ -40,14 +40,14 @@ static const String hostUrl = "https://braziladmin.pscorpglobal.com";
 
   static const int hiddenAPIProcessDelay = 1;
 
-  static const String shareNavigationWebUrl = "brazilapp.pscorpglobal.com";
+  static const String shareNavigationWebUrl = "https://brazilapp.pscorpglobal.com";
 
   static const MapType googleMapType = MapType.normal;
 
   static const int otpResendSecond = 60;
   static const int otpTimeOutSecond = 60;
 
-  static const String defaultCountryCode = "91";
+  static const String defaultCountryCode = "1";
   static const bool disableCountrySelection = false;
 
   static const String successLoadingLottieFile = "loading_success.json";

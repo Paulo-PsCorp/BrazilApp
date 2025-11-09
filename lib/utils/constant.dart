@@ -59,9 +59,9 @@ class Constant {
   // It’s used as the default location in multiple spots, and weird things *will* happen without it.
   // Feel free to tweak the values, just don’t nuke the whole thing.
   static LeafLocation defaultLocation = LeafLocation(
-    city: LocalizedString(canonical: 'Bhuj'),
-    state: LocalizedString(canonical: 'Gujarat'),
-    country: LocalizedString(canonical: 'India'),
+    city: LocalizedString(canonical: 'Miami'),
+    state: LocalizedString(canonical: 'Miami'),
+    country: LocalizedString(canonical: 'Eua'),
     radius: 100.0,
     latitude: 23.232639,
     longitude: 69.6415341,
