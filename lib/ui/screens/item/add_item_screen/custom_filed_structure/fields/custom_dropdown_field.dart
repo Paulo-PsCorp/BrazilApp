@@ -103,7 +103,7 @@ class CustomFieldDropdown extends CustomField {
                         }
                         return null;
                       },
-                      value: selected,
+                      initialValue: selected,
                       dropdownColor: context.color.secondaryColor,
                       isExpanded: true,
                       icon: SvgPicture.asset(
