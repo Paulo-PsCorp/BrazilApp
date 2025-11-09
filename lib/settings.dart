@@ -28,10 +28,9 @@ class PaymentGateway {
 class AppSettings {
   /// Basic Settings
 
-  static const String applicationName = 'eClassify';
-  static const String packageName = 'com.eclassify.wrteam';
-
-  static const String hostUrl = "https://eclassify.wrteam.me";
+static const String applicationName = 'BrazilApp';
+static const String packageName = 'com.pscorp.brazilapp';
+static const String hostUrl = "https://braziladmin.pscorpglobal.com";
 
   ///API Setting
 
@@ -41,7 +40,7 @@ class AppSettings {
 
   static const int hiddenAPIProcessDelay = 1;
 
-  static const String shareNavigationWebUrl = "eclassifyweb.wrteam.me";
+  static const String shareNavigationWebUrl = "brazilapp.pscorpglobal.com";
 
   static const MapType googleMapType = MapType.normal;
 

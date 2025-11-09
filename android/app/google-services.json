@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758558059193",
+    "project_id": "brazilappid",
+    "storage_bucket": "brazilappid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758558059193:android:d7868d38b6638d3e004968",
+        "android_client_info": {
+          "package_name": "com.pscorp.brazilapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp_AwBuvzqmUsw_GhIgwVBhLmXPWuUa0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
